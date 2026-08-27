@@ -1,1 +1,1 @@
-web: gunicorn dashboardd:server
+web: gunicorn dashboard:server
