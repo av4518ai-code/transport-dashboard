@@ -1,1 +1,1 @@
-web: gunicorn dashboard-2026:server
+web: gunicorn dashboard2026:server
